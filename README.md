@@ -21,5 +21,7 @@ Practicas de HTML#2  Parcial 3
 ![image](https://github.com/user-attachments/assets/aae466c5-1895-4ead-ab92-fef84d0c53fa)
 
 # Practica 6
+![image](https://github.com/user-attachments/assets/e0067881-dda6-42a5-b139-2f3cc63ae304)
+![image](https://github.com/user-attachments/assets/58ef29c6-484a-420a-b551-33d424fa3a80)
 
 
