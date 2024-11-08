@@ -24,4 +24,10 @@ Practicas de HTML#2  Parcial 3
 ![image](https://github.com/user-attachments/assets/e0067881-dda6-42a5-b139-2f3cc63ae304)
 ![image](https://github.com/user-attachments/assets/58ef29c6-484a-420a-b551-33d424fa3a80)
 
+# Practica 7
+![image](https://github.com/user-attachments/assets/ae4e1df8-2f9b-4b33-aaa9-dcc85d16094c)
+![image](https://github.com/user-attachments/assets/38c74a15-de74-4c23-ac98-60689dbff089)
+
+
+
 
